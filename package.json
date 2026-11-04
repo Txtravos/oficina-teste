@@ -1,0 +1,9 @@
+cat << 'EOF' > package.json
+{
+  "name": "projeto-oficina",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test"
+  }
+}
+EOF
